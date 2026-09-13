@@ -1,0 +1,10 @@
+
+path: /content/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: rear_light
+  1: headlight
+  2: plate_number
