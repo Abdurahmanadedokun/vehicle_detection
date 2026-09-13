@@ -21,5 +21,5 @@ How to Run:
 2. Run prediction using Ultralytics YOLO
 
 Author:
-Your Name
+ADEDOKUN Abdurahman
 
